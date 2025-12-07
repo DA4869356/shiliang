@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 合成氨化学平衡",
+  "description": "交互式演示勒夏特列原理，以合成氨过程 (N2 + 3H2 ⇌ 2NH3) 为例。包含实时粒子模拟和动态浓度图表。",
+  "requestFramePermissions": []
+}
